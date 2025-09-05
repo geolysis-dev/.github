@@ -9,10 +9,14 @@
 </a>
 </h1>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin_url]
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@geolysisllc.com)
 [![Website](https://img.shields.io/badge/🌐%20Website-black?style=for-the-badge)](https://geolysisllc.com)
 [![GitHub followers](https://img.shields.io/github/followers/geolysis-dev?label=Followers&style=for-the-badge&logo=github)](https://github.com/geolysis-dev)
+
+</div>
 
 Geolysis LLC is building a comprehensive Geotechnical Software Toolkit for the
 Geotechnical engineering industry. Geolysis consist of four (4) different

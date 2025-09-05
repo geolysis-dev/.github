@@ -33,7 +33,7 @@ various projects:
    _**geolysis for desktop**_ applications. Click [here][geolysis_pkg_url] for
    more information on the capabilities of the python package.
 
-1. **geolysis for excel** - _private repository_
+2. **geolysis for excel** - _private repository_
 
    An add-in for Microsoft Excel that currently provides custom functions
    for computing _soil classification_,
@@ -56,22 +56,22 @@ various projects:
      </tr>
    </table>
 
-   > [!NOTE]
-   > First version of _geolysis for excel_ will be released on the Microsoft
-   > 365 Office store soon, which will make it downloadable right within
-   > Microsoft Excel.
+> [!NOTE]
+> First version of _geolysis for excel_ will be released on the Microsoft
+> 365 Office store soon, which will make it downloadable right within
+> Microsoft Excel.
 
-1. **geolysis for desktop** - _private repository_
+3. **geolysis for desktop** - _private repository_
 
    A graphical user interface (GUI) for modeling soils and running soil
    simulations. _More information on this coming soon_
 
-   > [!NOTE]
-   > _geolysis for desktop_ is currently in the design phase.
+> [!NOTE]
+> _geolysis for desktop_ is currently in the design phase.
 
-1. **geolysis ai** - _private repository_
+4. **geolysis ai** - _private repository_
 
    Offers machine learning models that are trained using geotechnical data.
 
-   > [!NOTE]
-   > A research paper will be released soon.
+> [!NOTE]
+> A research paper will be released soon.

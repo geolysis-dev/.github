@@ -50,16 +50,16 @@ various projects:
          alt="geolysis excel homepage">
        </td>
        <td>
-         <img src="./assets/geolysis-excel-home-interface.png" 
-         alt="geolysis excel homepage">
+         <img src="./assets/geolysis-excel-doc-interface.png" 
+         alt="geolysis excel docpage">
        </td>
      </tr>
    </table>
 
 > [!NOTE]
-> First version of _geolysis for excel_ will be released on the Microsoft
-> 365 Office store soon, which will make it downloadable right within
-> Microsoft Excel.
+> _geolysis for excel_ will be released on the Microsoft
+> 365 Office store soon, which will enable you to install the application right
+> within Microsoft Excel.
 
 3. **geolysis for desktop** - _private repository_
 

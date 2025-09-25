@@ -19,7 +19,7 @@
 </div>
 
 Geolysis LLC is building a comprehensive Geotechnical Software Toolkit for the
-Geotechnical engineering industry. Geolysis consist of four (4) different
+Geotechnical engineering industry. The toolkit consist of four (4) different
 projects namely,
 [`geolysis python package`][geolysis_pkg_url],
 `geolysis for excel` (or `geolysis for microsoft excel`),

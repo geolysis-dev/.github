@@ -41,21 +41,10 @@ various projects:
    _analyzing spt data_. There are more features underway (for e.g.,
    data entry for laboratory and field tests).
 
-   Below are some screenshots of the Microsoft Excel Interface and a sample video
+   Below is a screenshot of the Microsoft Excel Interface and a sample video
    demonstrating a use case:
 
-   <table>
-     <tr>
-       <td>
-         <img src="./assets/geolysis-excel-home-interface.png" 
-         alt="geolysis excel homepage">
-       </td>
-       <td>
-         <img src="./assets/geolysis-excel-doc-interface.png" 
-         alt="geolysis excel docpage">
-       </td>
-     </tr>
-   </table>
+   ![geolysis interface](./assets/Geolysis-Excel-Screenshot-4.png)
 
 https://github.com/user-attachments/assets/7e272c49-44e9-4aaf-823d-40eca18129ae
    

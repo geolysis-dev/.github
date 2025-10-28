@@ -31,7 +31,7 @@ various projects:
 > Microsoft AppSource Store using this installer
 > link: [https://appsource.microsoft.com/en-us/product/Office365/WA200009428](https://appsource.microsoft.com/en-us/product/Office365/WA200009428)
 
-![geolysis-excel-appsource](./assets/geolysis-installer-appsource.png)
+[![geolysis-excel-appsource](./assets/geolysis-installer-appsource.png)](https://appsource.microsoft.com/en-us/product/Office365/WA200009428)
 
 
 

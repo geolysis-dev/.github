@@ -26,6 +26,13 @@ projects namely,
 `geolysis for desktop` and `geolysis ai`. Below is a brief description of the
 various projects:
 
+> [!IMPORTANT]
+> The `geolysis.excel` (an Excel Add-in), is available to install from the
+> Microsoft AppSource Store using this installer
+> link: [https://appsource.microsoft.com/en-us/product/Office365/WA200009428](https://appsource.microsoft.com/en-us/product/Office365/WA200009428)
+
+
+
 1. [**geolysis python package**][geolysis_pkg_url] - _public repository_
 
    An open-source python package (library) which provides some of the core
@@ -41,17 +48,12 @@ various projects:
    _analyzing spt data_. There are more features underway (for e.g.,
    data entry for laboratory and field tests).
 
-   > [!IMPORTANT]
-   > The `geolysis.excel` (an Excel Add-in), is available to install from the
-   > Microsoft AppSource Store using this installer
-   > link: [https://appsource.microsoft.com/en-us/product/Office365/WA200009428](https://appsource.microsoft.com/en-us/product/Office365/WA200009428)
-
    Below is a screenshot of the Microsoft Excel Interface and a sample video
    demonstrating a use case:
 
    ![geolysis interface](./assets/Geolysis-Excel-Screenshot-4.png)
 
-https://github.com/user-attachments/assets/7e272c49-44e9-4aaf-823d-40eca18129ae
+   https://github.com/user-attachments/assets/7e272c49-44e9-4aaf-823d-40eca18129ae
    
 3. **geolysis for desktop** - _private repository_
 

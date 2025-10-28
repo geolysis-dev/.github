@@ -41,6 +41,11 @@ various projects:
    _analyzing spt data_. There are more features underway (for e.g.,
    data entry for laboratory and field tests).
 
+   > [!IMPORTANT]
+   > The `geolysis.excel` (an Excel Add-in), is available to install from the
+   > Microsoft AppSource Store using this installer
+   > link: [https://appsource.microsoft.com/en-us/product/Office365/WA200009428](https://appsource.microsoft.com/en-us/product/Office365/WA200009428)
+
    Below is a screenshot of the Microsoft Excel Interface and a sample video
    demonstrating a use case:
 
@@ -48,11 +53,6 @@ various projects:
 
 https://github.com/user-attachments/assets/7e272c49-44e9-4aaf-823d-40eca18129ae
    
-> [!NOTE]
-> _geolysis for excel_ will be released on the Microsoft
-> 365 Office store soon, which will enable you to install the application right
-> within Microsoft Excel.
-
 3. **geolysis for desktop** - _private repository_
 
    A graphical user interface (GUI) for modeling soils and running soil
